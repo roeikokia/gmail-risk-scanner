@@ -1,0 +1,53 @@
+# Secrets — NEVER commit
+.env
+*.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build / dist
+build/
+dist/
+*.egg
+
+# Logs
+*.log
+logs/
+
+# Local-only data
+.cache/
+tmp/
+temp/
+
+# Local development tooling state
+.claude/
+.aider*
+.cursor/
+
+# Original assignment brief — do not republish
+*.pdf

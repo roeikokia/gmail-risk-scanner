@@ -1,0 +1,26 @@
+{
+  "timeZone": "Asia/Jerusalem",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/gmail.addons.execute",
+    "https://www.googleapis.com/auth/gmail.addons.current.message.readonly",
+    "https://www.googleapis.com/auth/gmail.modify",
+    "https://www.googleapis.com/auth/gmail.send",
+    "https://www.googleapis.com/auth/script.external_request",
+    "https://www.googleapis.com/auth/userinfo.email"
+  ],
+  "gmail": {
+    "name": "Gmail Risk Scanner",
+    "logoUrl": "https://www.gstatic.com/images/icons/material/system/2x/security_black_48dp.png",
+    "contextualTriggers": [
+      {
+        "unconditional": {},
+        "onTriggerFunction": "buildRiskCard"
+      }
+    ],
+    "primaryColor": "#3c4043",
+    "secondaryColor": "#e8eaed"
+  }
+}

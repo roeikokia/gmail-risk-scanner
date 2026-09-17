@@ -57,6 +57,9 @@ One of the main challenges in building the product was balancing detection quali
 Building this product was a deep learning experience both from a cybersecurity perspective and from a product-engineering perspective. On the security side, it taught me how real-world layers of defense is built through layered thinking, tradeoffs, and handling uncertainty rather than relying on a single indicator or a single detector. On the engineering side, it showed me how quickly meaningful products can now be developed by combining strong architectural thinking with modern AI-assisted development workflows. The most interesting part for me was not only building the system itself, but learning how to make complex security decisions explainable, practical, and resilient under real-world constraints. It made me increasingly curious about how modern security products are evolving at the intersection of AI, product design, and intelligent threat detection.
 
 ## Images
+
+---
+
 ### Safe mail: 
 <p align="center">
   <img width="850" alt="image" src="https://github.com/user-attachments/assets/f91548cf-4051-45ce-b500-4e0286471b6b" />

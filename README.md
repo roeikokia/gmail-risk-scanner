@@ -58,8 +58,6 @@ Building this product was a deep learning experience both from a cybersecurity p
 
 ## Images
 
----
-
 ### Safe mail: 
 <p align="center">
   <img width="850" alt="image" src="https://github.com/user-attachments/assets/f91548cf-4051-45ce-b500-4e0286471b6b" />
@@ -71,7 +69,8 @@ Building this product was a deep learning experience both from a cybersecurity p
 <img width="238" height="566" alt="image" src="https://github.com/user-attachments/assets/1636839f-f9cc-4542-a482-686f2bc49099" />
 
 ### Malicious mail:
-<img width="488" height="284" alt="image" src="https://github.com/user-attachments/assets/cc1223d2-4461-4c3d-baf5-896813a830e3" />
+<img width="1450" height="800" alt="image" src="https://github.com/user-attachments/assets/24851d49-177a-4656-91d0-ca725c7f1301" />
+
 <img width="232" height="572" alt="image" src="https://github.com/user-attachments/assets/dda6ef9a-f1e5-40b8-9ec5-0b1e94a058c3" />
 <img width="262" height="577" alt="image" src="https://github.com/user-attachments/assets/2b97f69c-9ce9-4776-8c80-22dade0f22e3" />
 

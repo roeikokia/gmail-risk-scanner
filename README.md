@@ -57,16 +57,17 @@ One of the main challenges in building the product was balancing detection quali
 Building this product was a deep learning experience both from a cybersecurity perspective and from a product-engineering perspective. On the security side, it taught me how real-world layers of defense is built through layered thinking, tradeoffs, and handling uncertainty rather than relying on a single indicator or a single detector. On the engineering side, it showed me how quickly meaningful products can now be developed by combining strong architectural thinking with modern AI-assisted development workflows. The most interesting part for me was not only building the system itself, but learning how to make complex security decisions explainable, practical, and resilient under real-world constraints. It made me increasingly curious about how modern security products are evolving at the intersection of AI, product design, and intelligent threat detection.
 
 ## Images
-# Safe mail: 
+### Safe mail: 
 <p align="center">
   <img width="850" alt="image" src="https://github.com/user-attachments/assets/f91548cf-4051-45ce-b500-4e0286471b6b" />
 </p>
-# Suspicious mail:
+
+### Suspicious mail:
 <img width="236" height="567" alt="image" src="https://github.com/user-attachments/assets/1df1ae10-9d0f-431a-8745-77872586db54" />
 <img width="231" height="403" alt="image" src="https://github.com/user-attachments/assets/acd4caba-917f-44d9-ba20-61c14fbc81fd" />
 <img width="238" height="566" alt="image" src="https://github.com/user-attachments/assets/1636839f-f9cc-4542-a482-686f2bc49099" />
 
-# Malicious mail:
+### Malicious mail:
 <img width="488" height="284" alt="image" src="https://github.com/user-attachments/assets/cc1223d2-4461-4c3d-baf5-896813a830e3" />
 <img width="232" height="572" alt="image" src="https://github.com/user-attachments/assets/dda6ef9a-f1e5-40b8-9ec5-0b1e94a058c3" />
 <img width="262" height="577" alt="image" src="https://github.com/user-attachments/assets/2b97f69c-9ce9-4776-8c80-22dade0f22e3" />
